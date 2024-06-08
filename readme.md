@@ -1,4 +1,4 @@
-# Kexie-chat-2024
+# # 科协 2024 聊天室 Java 服务端
 
 注意事项  
 **用 maven 最好使用 Maven Wrapper, 这是什么？。**
